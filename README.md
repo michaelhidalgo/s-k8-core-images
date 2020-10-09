@@ -9,7 +9,7 @@ The Glasswall CentOS7 image is based on [The CentOS Project](https://github.com/
 - [centos 7.8.2003](https://github.com/k8-proxy/s-k8-core-images/blob/master/Dockerfile)
 
 # CentOS image documentation
-The centos:latest tag is always the most recent version currently available
+The `glasswallsolutions/k8-centos7:latest` tag is always the most recent version currently available
 
 # Rolling update
 Glasswall offers regularly updated images for all active releases. These images will be updated monthly or as needed for emergency fixes. These rolling updates are tagged `latest`
